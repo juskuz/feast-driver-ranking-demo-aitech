@@ -1,5 +1,10 @@
 # Feast Driver Ranking Example
 
+Repo contains code presented during Szkoła Majowa AI TECH 2022 . It's an example of using feast based on [this tutorial] (https://docs.feast.dev/tutorials/driver-ranking-with-feast) from official Feast website.
+
+Walkthrough is presented in file Driver_Ranking_Tutorial_AITech.ipynb (notebooks/Driver_Ranking_Tutorial_AITech.ipynb).
+
+
 ### Overview
 
 Making a prediction using a linear regression model is a common use case in ML. In this guide tutorial, we build the model that predicts best driver (by driver id).
